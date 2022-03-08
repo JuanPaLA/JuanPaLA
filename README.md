@@ -5,7 +5,7 @@ I'm philosopher with a deep interest in technologies and the way they change our
 I'm currently working for IBM, leading educative initiatives involving IT training for young students. And I'm also working for CoderHouse, a great bootcamp site in Argentina, where i help students learning React, Node and Data Science. 
 
 ## What do I do? 🔭
-Currently I'm working in my biggest project with my friend @Gaston: a complex web app social network that lets share and visualize data regarding demographics and other valuables indicators. 
+Currently I'm working in my biggest project with my friend <a href="https://github.com/gastonbecerra">@Gaston</a>: a complex web app social network that lets share, visualize and interact with data regarding demographics and other valuables indicators. 
 - Front: made in React, material UI, redux and others technologies. 
 - Back: Nodes, express and other libraries.
 - Data Layer: R! We could chage to Python if it needed. 

@@ -6,8 +6,8 @@ I'm currently working for IBM, leading educative initiatives involving IT traini
 
 ## What do I do? 🔭
 Currently I'm working in my biggest project with my friend <a href="https://github.com/gastonbecerra">@Gaston</a>: a complex web app social network that lets share, visualize and interact with data regarding demographics and other valuables indicators. 
-- Front: made in React, material UI, redux and others technologies. 
-- Back: Nodes, express and other libraries.
+- <a heref="https://github.com/gastonbecerra/gc-client">Front:</a> made in React, material UI, redux and others technologies. 
+- <a heref="https://github.com/gastonbecerra/gc-server">Front:</a> Nodes, express and other libraries.
 - Data Layer: R! We could chage to Python if it needed. 
 
 ## Contact 📫

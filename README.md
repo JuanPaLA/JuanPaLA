@@ -1,6 +1,6 @@
 ## Who am I? 😄
 
-I'm philosopher with a deep interest in technologies and the way they change our lives.
+I'm philosopher turned into a sofwtware developer. 
 
 I'm currently working for IBM, leading educative initiatives involving IT training for young students. And I'm also working for CoderHouse, a great bootcamp site in Argentina, where i help students learning React, Node and Data Science. 
 
@@ -13,6 +13,15 @@ Currently I'm working in my biggest project with my friend <a href="https://gith
 ## Contact 📫
 Just write me to my personal email: juanlopezalurralde@gmail.com
 
+## My favorites tools
+- JS: React, Node, jQuery, Express, Mongoose... (specially experienced in MERN stack).
+- Python: Anaconda data science stack.
+- PHP & WordPress.
+
+- Fluent in Javascript.
+- Confident in Python.
+- I can do it with with PHP,
+- And I suppose I can learn the rest. 
 <!--
 **JuanPaLA/JuanPaLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

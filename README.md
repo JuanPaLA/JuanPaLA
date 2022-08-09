@@ -14,14 +14,15 @@ Currently I'm working in my biggest project with my friend <a href="https://gith
 Just write me to my personal email: juanlopezalurralde@gmail.com
 
 ## My favorites tools
+- Front: HTML & CSS (and SASS)
 - JS: React, Node, jQuery, Express, Mongoose... (specially experienced in MERN stack).
 - Python: Anaconda data science stack.
 - PHP & WordPress.
 
-- Fluent in Javascript.
-- Confident in Python.
-- I can do it with with PHP,
-- And I suppose I can learn the rest. 
+Fluent in Javascript</br>
+Confident in Python</br>
+I can do it with with PHP</br>
+And I suppose I can learn the rest</br>
 <!--
 **JuanPaLA/JuanPaLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

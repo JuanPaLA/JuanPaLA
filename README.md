@@ -1,6 +1,6 @@
 ## Who am I? 😄
 
-I'm philosopher turned into a sofwtware developer. 
+I'm philosopher turned into a sofwtware developer enthusiast. 
 
 I'm currently working for IBM, leading educative initiatives involving IT training for young students. And I'm also working for CoderHouse, a great bootcamp site in Argentina, where i help students learning React, Node and Data Science. 
 

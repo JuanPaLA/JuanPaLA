@@ -1,11 +1,18 @@
 ## Who am I? 😄
 
-I'm philosopher turned into a sofwtware developer enthusiast. 
+I’m a Full Stack Developer specialized in Javascript tools. 
 
-I'm currently working for IBM, leading educative initiatives involving IT training for young students. And I'm also working for CoderHouse, a great bootcamp site in Argentina, where i help students learning React, Node and Data Science. 
+I’m currently working for IBM designing and implementing IT training workshops for young students focused in frontend and backend development.
 
-## What do I do? 🔭
-Currently I'm working in my biggest project with my friend <a href="https://github.com/gastonbecerra">@Gaston</a>: a complex web app social network that lets share, visualize and interact with data regarding demographics and other valuables indicators. 
+Also, I’m working as a consultant full stack developer for an ecommerce company from the USA. I’m helping them improve their Wordpress apps for a more responsive UX, and integrating APIs to automate company processes.
+
+## Full Stack Developer & Data Science Personal Projects
+Many of my personal endeavors are carried out  with my partners at getContext(), a collaborative team made up of academic developers interested in designing apps intended to collect data for research purposes, and subsequent data analysis.
+
+We use React in frontend, Firebase or Node + Mongoose for backend, and Heroku for deployment. For data science workflows we use Python and R.
+Of course, we are not trying to reach anything, but experiment with our ideas, and challenge ourselves to keep learning in the best way we know: learning by doing meaningful projects. 
+
+Currently we are working in our biggest project with my friend <a href="https://github.com/gastonbecerra">@Gaston</a>: a complex web app social network that lets share, visualize and interact with data regarding demographics and other valuables indicators. 
 - <a href="https://github.com/gastonbecerra/gc-client2">Front:</a> made in React, material UI, redux and others technologies. 
 - <a href="https://github.com/gastonbecerra/gc-server2">Backend:</a> Nodes, express and other libraries.
 - <a href="https://stormy-citadel-88496.herokuapp.com/">Data Layer:</a>: R! We could change to Python if it needed. 

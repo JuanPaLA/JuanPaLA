@@ -17,6 +17,10 @@ Currently we are working in our biggest project with my friend <a href="https://
 - <a href="https://github.com/gastonbecerra/gc-server2">Backend:</a> Nodes, express and other libraries.
 - <a href="https://stormy-citadel-88496.herokuapp.com/">Data Layer:</a>: R! We could change to Python if it needed. 
 
+Also I been exploring the limits of reusable components and the possibility to use javascript schemes prototypes to automate forms and validate data. I developed two samples of this project. One using <a href="https://github.com/JuanPaLA/metacrud-react-node.git">React JS</a> + Node JS, and another using Next JS.
+
+<p><b> Check the branchs! </b></p>
+
 ## Contact 📫
 Just write me to my personal email: juanlopezalurralde@gmail.com
 

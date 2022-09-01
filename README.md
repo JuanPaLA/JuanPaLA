@@ -11,12 +11,13 @@ Many of my personal endeavors are carried out  with my partners at getContext(),
 
 We use React in frontend, Firebase or Node + Mongoose for backend, and Heroku for deployment. For data science workflows we use Python and R.
 Of course, we are not trying to reach anything, but experiment with our ideas, and challenge ourselves to keep learning in the best way we know: learning by doing meaningful projects. 
-
+<h4>Social Network Experiment</h4>
 Currently we are working in our biggest project with my friend <a href="https://github.com/gastonbecerra">@Gaston</a>: a complex web app social network that lets share, visualize and interact with data regarding demographics and other valuables indicators. 
 - <a href="https://github.com/gastonbecerra/gc-client2">Front:</a> made in React, material UI, redux and others technologies. 
 - <a href="https://github.com/gastonbecerra/gc-server2">Backend:</a> Nodes, express and other libraries.
 - <a href="https://stormy-citadel-88496.herokuapp.com/">Data Layer:</a>: R! We could change to Python if it needed. 
 
+<h4>META-CRUD proof of concept, expriment</h4>
 Also I been exploring the limits of reusable components and the possibility to use javascript schemes prototypes to automate forms and validate data. I developed two samples of this project. One using <a href="https://github.com/JuanPaLA/metacrud-react-node.git">React JS</a> + Node JS, and another using Next JS.
 
 <p><b> Check the branchs! </b></p>

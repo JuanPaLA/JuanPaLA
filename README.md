@@ -14,9 +14,9 @@ the tools your model can call, without rendering either. ESM + CJS + TypeScript 
   **MCP connectors** end to end, and I work across the core: product-catalog RAG, documents/FAQ RAG,
   custom HTTP and email tools, template rendering.
 - Also configuring conversational agents for real-estate clients (Consultatio, Portland, Interwin,
-  Prima) and syncing leads against HubSpot.
+  Prima) and syncing leads against HubSpot, Salesforce, Kommo, Google Spreadsheets and other majors real state ERPs.
 - **Stack**: Python · TypeScript · Kotlin/Java · OpenAI & Anthropic APIs · MCP · RAG ·
-  React/Next.js · ProseMirror · PostgreSQL
+  React/Next.js · PostgreSQL
 - **Practices**: Extreme Programming, TDD, Clean Code, Clean Architecture
 - **Before code**: Philosophy (UNT) and an MA in Science, Technology and Society (UNQ). I taught for
   years, which is why turning a business process into agent behaviour — and explaining the trade-offs
